@@ -1,0 +1,12 @@
+*.mdl
+bert/*
+log/*
+output/*
+.vscode/*
+temp/*
+temp_mbart/*
+temp_mt5/*
+bert-large-cased/*
+__pycache__/*
+bert-large/*
+roberta/*
